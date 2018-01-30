@@ -1,0 +1,43 @@
+Alpha Beowulf
+
+PL10 (114/150)
+
+STR:7
+STA:7
+AGL:0
+FGT:0
+DEX:0
+INT:-4
+AWE:2
+PRE:-2
+
+Skills:
+
+Advantages:
+All-Out Attack, Evasion 2, Fearless, Improved Initiative 2, Power Attack, Takedown 2, Teamwork, Uncanny Dodge
+
+Powers:
+
+-Creature of Grimm [19]
+ Enhanced Strength 3 (Permanent)(Limited to Combat) [3]
+ Protection 3 [3]
+ Senses 10 (TBA) [10]
+ Speed 3 [3]
+
+-Pack Alpha:Array [30+3]
+ "Flash of Claws" Strength-Based Damage 0 (Multiattack 10) Linked to Affliction 10 (Impaired&Vulnerable/Disabled&Defensless, Fort)(Cumulative, Extra Condition)(Limited Degree) [30]
+ [AE]"Rip and Tear" Strength-Based Damage 0 (Secondary Effect 10) Linked to Weaken Toughness 10 (Resisted by Toughness)(Secondary Effect) [30]
+ [AE]"Horrific Blow" Strength-Based Damage 0 (Multiattack) Linked to Affliction 10 (Impaired&Dazed/Stunned&Disabled, Will)(Area:Perception, Extra Condition, Selective)(Limited Degree,    Limited:Targe must fail save vs Damage) [30]
+ [AE]"[PLACEHOLDER]"
+
+Offense:
+
+Defenses:
+
+Dodge:10 [10]
+Parry:10 [10]
+Toughness:10
+Fortitude:10 [3]
+Will:10 [8]
+
+Total: Abilities:20/Skills:/Advantages:11/Powers:52/Defenses:31

@@ -1,0 +1,53 @@
+Creep
+
+PL4 (57/60)
+
+STR:1
+STA:4
+AGL:0
+FGT:0
+DEX:0
+INT:-4
+AWE:2
+PRE:-3
+
+Skills:
+Athletics 4 (+5/+8)
+Close Combat (Scavenger) 4 (+4)
+Insight 8 (+10)
+Perception 8 (+10)
+Stealth 8 (+8)
+
+Advantages:
+Evasion, Great Endurance, Improved Initiative, Improved Smash, Instant Up, Teamwork, Uncanny Dodge
+
+Powers:
+
+-Creature of Grimm [15]
+ Senses 8 (Low-Light Vision, Acute & Extended Scent, Tracking-Scent, Acute & Extended Detect Negative Emotions) [8]
+ Immunity 2 (Injested Things) [2]
+ Speed 4 (AE:Burrowing 4) [5]
+
+-Powerful Jaws [3]
+ Enhanced Strength 3 (Permanent)(Limited to Combat)
+
+-Scavenger:Array [4+2]
+ "Bile Bite" Strength-Based Damage 0 (Secondary Effect 4) [4]
+ [AE]"Eat Anything" Strength-Based Damage 0 (Affects Objects Only, Alternate Resistance:Fortitude) [4]
+ [AE]"Ambush" Strength-Based Damage 0 (Fast Trip, Improved Trip) Linked to Affliction 4 (Dazed&Vulnerable/Stunned&Defenseless, Dodge/Fort)(Extra Condition)(Limited Degree, Limited:Must Spend a Move Action Burrowing to target) [4]
+
+
+Offense:
+Initiative
+
+Defenses:
+
+Dodge:4 [4]
+Parry:4 [4]
+Toughness:4
+Fortitude:4
+Will:4 [2]
+
+Complications:
+
+Total: Abilities:0/Skills:16/Advantages:7/Powers:24/Defenses:10
