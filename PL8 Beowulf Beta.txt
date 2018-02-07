@@ -1,0 +1,53 @@
+Beowolf Beta
+
+PL8 (113/120)
+
+STR:5
+STA:5
+AGL:0
+FGT:0
+DEX:0
+INT:-4
+AWE:2
+PRE:-2
+
+Skills:
+Close Combat (Wolf Grimm) 8 (+8)
+Expertise (Survival) 4 (+6)
+Insight 6 (+8)
+Intimidation 10 (+8)
+Perception 6 (+8)
+Stealth 6 (+6)
+
+Advantages:
+Evasion, Improved Critical 2 (Wolf Grimm), Improved Initiative, Fast Grab, Startle, Set-Up, Teamwork
+
+Powers:
+
+-Creature of Grimm [19]
+ Enhanced Strength 3 (Permanent)(Limited to Combat) [3]
+ Senses 10 (Acute & Extended Scent, Low-Light Vision, Scent-Tracking, Ultra & Extended Hearing, Acute & Extended Detect Negative Emotions) [10]
+ Protection 3 [3]
+ Speed 3 [3]
+
+-Pack Tactics [12]
+ Strength-Based Damage 0 (Reaction:Another hits with a Close Range Attack)(Limited to same the Target, Limited to once per turn);Accurate 4
+
+-Wolf Grimm:Array [16+1]
+ "Claw Flurry" Strength-Based Damage 0 (Multiattack) Linked to Affliction 8 (Impaired&Vulnerable/Disabled&Defenceless)(Extra Condition)(Limited Degree) [16]
+ [AE]"Rending Bite" Strength-Based Damage 0 Linked to Weaken Toughness 8 (Resisted by Toughness)(Secondary Effect) [16]
+
+Offense:
+Initiative
+
+Defenses:
+
+Dodge:8 [8]
+Parry:8 [8]
+Toughness:8
+Fortitude:8 [3]
+Will:8 [6]
+
+Complications:
+
+Total: Abilities:12/Skills:20/Advantages:8/Powers:48/Defenses:25

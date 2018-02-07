@@ -1,0 +1,53 @@
+Beowolf Omega
+
+PL6 (90)
+
+STR:3
+STA:4
+AGL:0
+FGT:0
+DEX:0
+INT:-4
+AWE:2
+PRE:-2
+
+Skills:
+Close Combat (Wolf Grimm) 6 (+6)
+Expertise (Survival) 4 (+6)
+Insight 6 (+8)
+Intimidation 10 (+8)
+Perception 6 (+8)
+Stealth 6 (+6)
+
+Advantages:
+Improved Critical 2 (Wolf Grimm), Improved Initiative, Fast Grab, Startle, Set-Up, Teamwork
+
+Powers:
+
+-Creature of Grimm [18]
+ Enhanced Strength 3 (Permanent)(Limited to Combat) [3]
+ Senses 10 (Acute & Extended Scent, Low-Light Vision, Scent-Tracking, Ultra & Extended Hearing, Acute & Extended Detect Negative Emotions) [10]
+ Protection 2 [2]
+ Speed 3 [3]
+
+-Pack Tactics [9]
+ Strength-Based Damage 0 (Reaction:Another hits with a Close Range Attack)(Limited to same the Target, Limited to once per turn);Accurate 3
+
+-Wolf Grimm:Array [12+1]
+ "Claw Flurry" Strength-Based Damage 0 (Multiattack) Linked to Affliction 6 (Impaired&Vulnerable/Disabled&Defenceless)(Extra Condition)(Limited Degree) [12]
+ [AE]"Rending Bite" Strength-Based Damage 0 Linked to Weaken Toughness 6 (Resisted by Toughness)(Secondary Effect) [12]
+
+Offense:
+Initiative
+
+Defenses:
+
+Dodge:6 [6]
+Parry:6 [6]
+Toughness:6
+Fortitude:6 [2]
+Will:6 [4]
+
+Complications:
+
+Total: Abilities:06/Skills:19/Advantages:7/Powers:40/Defenses:18

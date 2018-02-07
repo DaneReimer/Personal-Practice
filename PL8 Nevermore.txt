@@ -1,0 +1,49 @@
+Nevermore
+
+PL8 (87/120)
+
+STR:0
+STA:2
+AGL:0
+FGT:0
+DEX:0
+INT:-4
+AWE:0
+PRE:-2
+
+Skills:
+Acrobatics 8 (+8)
+Perception 12 (+12)
+Insight 8 (+8)
+
+Advantages:
+Evasion 2, Favoured Environment (Airborne), Improved Initiative, Move-by Action, Uncanny Dodge
+
+Powers:
+
+-Creature of Grimm [16]
+ Senses 7 (Extended, Ultra & Low-Light Vision, Acute & Extended Detect Negative Emotions) [7]
+ Flight 5 (Wings) [5]
+ Protection 4 [4]
+
+-Beak and Claws [8]
+ Enhanced Strength 8 (Permanent)(Limited to Combat) [8]
+ 
+-Grimm of Prey:Array [20+1]
+ "Razor Sharp Feathers" Ranged Strength-Based Damage 0 (Multiattack);Accurate 4 [20]
+ [AE]"Go for the Eyes" Strength-Based Damage 0 (Multiattack) Linked to Affliction 8 (Impaired/Disabled/Unaware)(Limited to Vision), Enhanced Extra 8 (Extra Condition [Vulnerable/Defenseless])(Limited Degree);Accurate 4 [20]
+
+Offense:
+Initiative
+
+Defenses:
+
+Dodge:10 [10]
+Parry:10 [10]
+Toughness:6
+Fortitude:8 [6]
+Will:8 [8]
+
+Complications:
+
+Total: Abilities:-8/Skills:14/Advantages:6/Powers:45/Defenses:34

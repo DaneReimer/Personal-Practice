@@ -1,0 +1,52 @@
+Weaver
+
+PL8 (109/120)
+
+STR:6
+STA:8
+AGL:0
+FGT:0
+DEX:0
+INT:-4
+AWE:0
+PRE:-4
+
+Skills:
+Perception 10 (+10)
+Stealth 10 (+10)
+
+Advantages:
+Evasion 2, Improved Initiative 2, Uncanny Dodge
+
+Powers:
+
+-Creature of Grimm [15]
+ Growth 2 (+2 STR/STA, +2 Mass, +1 Intimidation, -2 Dodge/Parry, -2 Stealth)(Permanent) [4]
+ Senses 7 (Ranged & Extended Touch, Radius Sight, Acute & Extended Detect Negative Emotions) [7]
+ Movement 2 (Wall Crawling) [4]
+
+-Many Legs:Array [5+1]
+ "Skitter" Speed 4 [4]
+ [AE]"Pounce" Leaping 4 [4]
+
+-Spider Grimm:Array [31+2]
+ "Webbing" Ranged Afffliction 8 (Vulnerable/Defenseless/Paralysed, Resisted by Dodge & Overcome by Damage/Sleight of Hand)(Cumulative), Enhanced Extra 8 (Extra Condition [Dazed/Stunned])(Limited Degree, Limited to Physical Actions);Accurate 4 [31]
+ [AE]"Venomous Bite" Strength-Based Damage 2 Linked to Affliction 8 (Impaired/Disabled/Incapacitated, Fort)(Progressive);Accurate 4 [30]
+ [AE]"Corrosive Bite" Strength-Based Damage 2 Linked to Weaken Stamina 8 (Resisted by Fort)(Progressive);Accurate 4 [30]
+ 
+ 
+
+Offense:
+Initiative
+
+Defenses:
+
+Dodge:8 [10]
+Parry:8 [10]
+Toughness:8
+Fortitude:8
+Will:8 [8]
+
+Complications:
+
+Total: Abilities:12/Skills:10/Advantages:5/Powers:54/Defenses:28
